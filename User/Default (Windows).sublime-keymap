@@ -1,0 +1,6 @@
+[
+    { "keys":   ["ctrl+h"], "command": "left_delete" },
+    { "keys":   ["ctrl+j"], "command": "insert", "args": {"characters": "\n"} },
+    { "keys":   ["ctrl+shift+-"], "command": "abacus" },
+    { "keys":   ["ctrl+h"], "command": "left_delete" }
+]
